@@ -55,7 +55,7 @@ A página de tarefas exibe uma lista de tarefas com as seguintes informações:
 
 Os detalhes completos de cada tarefa são exibidos em um modal ao clicar em cada item da lista.
 
-## Código
+## Teste
 
 O código-fonte do site "Daily Check" está disponível neste repositório. Você pode cloná-lo e executar localmente para visualizar o site.
 
